@@ -74,7 +74,7 @@ main {
 .banner {
   width: 100%;
   height: 250px;
-  background-image: url(./assets/images/background-pattern-mobile.svg);
+  background-image: url(assets/images/background-pattern-mobile.svg);
   background-repeat: no-repeat;
   background-size: cover;
   background-position: center;
@@ -185,6 +185,6 @@ main {
 /* Desktop */
 @media (min-width: 1000px) {
   .banner {
-    background-image: url(./assets/images/background-pattern-desktop.svg);
+    background-image: url(assets/images/background-pattern-desktop.svg);
   }
 }
